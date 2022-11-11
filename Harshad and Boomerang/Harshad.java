@@ -3,6 +3,7 @@ package dev.mattson;
 import static java.lang.Integer.valueOf;
 
 public class Harshad {
+    //I realize this is not a perfect example of recursion but I learned a lot about recursion along the way and will be able to make a better one next time.
 
     public static Integer sum = 0;
 
